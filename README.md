@@ -11,12 +11,18 @@
   
 ## 
   
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=l34-n&theme=icegray&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=l34-n&theme=graywhite&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
+    
+    
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=L34-N&&show_icons=true&theme=graywhite"/>
+  </a>
+</p>    
     
 ## 
     
