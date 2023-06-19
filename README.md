@@ -1,11 +1,11 @@
 <div align="center">
   <a rel="nofollow" href="https://github.com/l34-n/l34-n/blob/main/trian.gif">
-    <img width="1.5%" src="./cub.gif">
+    <img width="1.5%" src="./trian.gif">
   </a>
   <b>
  Redes de Computadores | Engenharia da Computação | Segurança da Informação
   <b rel="nofollow" href="https://github.com/l34-n/l34-n/blob/main/trian.gif">
-    <img width="1.5%" src="./cubb.gif">
+    <img width="1.5%" src="./trian.gif">
   </b>
 </div> 
   
